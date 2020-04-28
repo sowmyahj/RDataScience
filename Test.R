@@ -1,1 +1,1 @@
-print ("just like that")
+print ("dddd")
